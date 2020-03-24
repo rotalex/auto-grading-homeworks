@@ -3,3 +3,4 @@ grades
 hws
 temp
 to_grade.*
+checkpatch.pl
